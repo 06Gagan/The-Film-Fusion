@@ -60,9 +60,7 @@ body {
 
 /*Movies section css*/
 .allmoviecontainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-flex
 }
 
 .movies-container {
